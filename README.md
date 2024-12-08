@@ -14,14 +14,13 @@ I'm a passionate developer focused on **web development with Python** and diving
 
 ### 🛠️ Skills & Tools
 - **Languages:** Python, C++, JS
-- **Frameworks & Libraries:** React, Next.js, Flask
+- **Frameworks & Libraries:** React, FastAPI
 - **Interests:** Understanding tech mechanisms, DSA, AI/ML
 
 ---
 
 ### 🌐 Connect with Me
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/utsav-bohara-58a041330)
-- **Email:** utsavbohara4@gmail.com
 
 ---
 
